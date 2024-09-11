@@ -1,0 +1,47 @@
+/* estilo/resumenCita.css */
+.resumen-cita-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .volver-btn {
+    width: 100px;
+    margin: auto;
+    background-color:#258AC9;
+    color: white;
+    text-decoration: underline;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .volver-btn:hover{
+    background-color:#2559A6;
+    color: white;
+  }
+  
+  .resumen-cita-container h2 {
+    font-size: 40px;
+    color: #2559A6;
+    margin-bottom: 30px;
+  }
+  .datos-cita {
+    margin-bottom: 20px;
+  }
+  
+  .btn-agendar-cita{
+    background-color: #2559A6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .agendar-cita button:hover {
+    background-color: #0056b3;
+  }
+  
